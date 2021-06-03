@@ -577,7 +577,7 @@ int main()
  			Sleep(500);
  			cout<<" or";
  			Sleep(500);
- 			cout<<" No Deal!"<<endl;
+ 			cout<<" No Deal!!!"<<endl;
  		}
  	}
 	return 0;
